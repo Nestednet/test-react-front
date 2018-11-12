@@ -20,4 +20,15 @@ En el momento de preparar esta prueba la API da información de 69 vuelos. `http
 
 Vamos a usar esta API para darle la información de un vuelo aleatorio a nuestros hosts. Queremos crear un componente como este: 
 
+![Card](https://github.com/Nestednet/test-react-front/blob/master/Screenshot%202018-11-12%20at%2014.05.55.png?raw=true) 
+
+Cada vez que se pulse el botón la información del vuelo cambiará por otro vuelo aleatorio.
+
+# Let´s go!
+
+Para hacerlo no os pedimos que configuréis ningún entorno. Podéis utilizar [stackblitz](https://stackblitz.com/) y compartir el enlace conmigo.
+
+Links interesantes: 
+[APIs y REACT](https://reactjs.org/docs/faq-ajax.html)
+
 
